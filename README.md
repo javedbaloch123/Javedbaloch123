@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Javed Baloch!  
-🚀 **Front-End Developer | UI/UX Designer | JavaScript Enthusiast**  
+🚀 **Front-End Developer | Backend Developer  | Full stack Dev **  
 
 💻 **I specialize in:**  
-🔹 **Front-End Development:** React, JavaScript, HTML, CSS  
-🔹 **UI/UX Design:** Creating modern & user-friendly interfaces  
-🔹 **Full-Stack Development (Learning)**  
+🔹 **Front-End Development:** Bootstrap, JavaScript, HTML, CSS  
+🔹 **Backend:** PHP
+🔹 **Full-Stack Development (Learning further)**  
 
 ---
 
