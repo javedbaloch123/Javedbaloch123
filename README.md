@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Javed Baloch!  
+# 👋 Hi, I'm Javed!  
 🚀 **Front-End Developer | Backend Developer  | Full stack Dev **  
 
 💻 **I specialize in:**  
-🔹 **Front-End Development:** Bootstrap, JavaScript, HTML, CSS  
-🔹 **Backend:** PHP
+🔹 **Front-End Development:** Bootstrap, Vue Js,  
+🔹 **Backend:** Laravel
 🔹 **Full-Stack Development (Learning further)**  
 
 ---
