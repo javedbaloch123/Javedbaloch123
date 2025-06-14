@@ -12,6 +12,8 @@
 ![JavaScript]  
 ![PHP]  
 ![Bootstrap]  
+![Vue Js]  
+![Laravel]  
 ![CSS]  
 ![HTML]  
 ![GitHub]
